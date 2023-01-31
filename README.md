@@ -1,1 +1,3 @@
-# polygon_io_data_collection
+# Polygon.io API
+
+- Get 1m crypto data from polygon.io
